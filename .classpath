@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/smugali/Downloads/solr_jars/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/smugali/Downloads/solr_jars/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/smugali/Downloads/solr_jars/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/smugali/Downloads/solr_jars/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/smugali/Downloads/solr_jars/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/smugali/Downloads/solr_jars/noggit-0.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/smugali/Downloads/solr_jars/slf4j-api-1.7.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/smugali/Downloads/solr_jars/solr-solrj-7.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/smugali/Downloads/solr_jars/stax2-api-3.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/smugali/Downloads/solr_jars/woodstox-core-asl-4.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/smugali/Downloads/solr_jars/zookeeper-3.4.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/smugali/Downloads/lucene/lucene-analyzers-common-8.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/smugali/Downloads/lucene/lucene-core-8.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/smugali/Downloads/lucene/lucene-queries-7.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/smugali/Downloads/lucene/lucene-queryparser-7.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/smugali/Downloads/lucene/lucene-queryparser-7.0.1_1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/smugali/Downloads/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/smugali/Downloads/jcl-over-slf4j-1.7.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/smugali/AppData/Local/Microsoft/Windows/INetCache/IE/HGAC9SN5/slf4j-simple-1.6.1[1].jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
