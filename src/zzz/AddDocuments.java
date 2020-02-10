@@ -20,6 +20,7 @@ public class AddDocuments {
 	      doc.addField("name", "Shruti"); 
 	      doc.addField("age","23"); 
 	      doc.addField("addr","Belgaum"); 
+	     // doc.addField("company","drg");
 	         
 	      //Adding the document to Solr 
 	      Solr.add(doc);         
@@ -27,7 +28,9 @@ public class AddDocuments {
 	      //Saving the changes 
 	      Solr.commit(); 
 	      System.out.println("Documents added");
+	      System.out.println("123");
 		   } 
+      
 	}
 
 
